@@ -10,9 +10,6 @@ A high-recall text classification engine built on **XGBoost** and the **Google G
 ## 📊 Performance Analysis
 The model was evaluated using a 20% test split from GoEmotions. By grouping 28 labels into 7, we achieved a balanced **Macro F1-Score of 0.41**.
 
-### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
-
 ### Results Highlights
 | Emotion | Precision | Recall | F1-Score |
 | :--- | :--- | :--- | :--- |
