@@ -240,7 +240,6 @@ If you use this work in your research or project, please cite it as:
 
 - GitHub: [@Ghulam-Mustafa-Keerio](https://github.com/Ghulam-Mustafa-Keerio)
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/ghulam-mustafa-keerio/)
-- Email: [Your Professional Email]
 
 ---
 
@@ -260,10 +259,10 @@ High-recall text emotion classification using XGBoost and Google GoEmotions data
 - `text-classification`
 - `xgboost`
 - `sentiment-analysis`
-- `deep-learning`
 - `natural-language-processing`
 - `emotion-recognition`
 - `goemotions`
+- `python`
 
 ---
 
